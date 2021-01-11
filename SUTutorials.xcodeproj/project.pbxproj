@@ -13,6 +13,7 @@
 		4DF219F625AC27350098D951 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4DF219F525AC27350098D951 /* Preview Assets.xcassets */; };
 		4DF21A0125AC27360098D951 /* SUTutorialsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DF21A0025AC27360098D951 /* SUTutorialsTests.swift */; };
 		4DF21A0C25AC27360098D951 /* SUTutorialsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DF21A0B25AC27360098D951 /* SUTutorialsUITests.swift */; };
+		4DF21A2325AC36AE0098D951 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DF21A2225AC36AE0098D951 /* CircleImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		4DF21A0725AC27360098D951 /* SUTutorialsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SUTutorialsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4DF21A0B25AC27360098D951 /* SUTutorialsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SUTutorialsUITests.swift; sourceTree = "<group>"; };
 		4DF21A0D25AC27360098D951 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4DF21A2225AC36AE0098D951 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			children = (
 				4DF219EE25AC27330098D951 /* SUTutorialsApp.swift */,
 				4DF219F025AC27330098D951 /* ContentView.swift */,
+				4DF21A2225AC36AE0098D951 /* CircleImage.swift */,
 				4DF219F225AC27350098D951 /* Assets.xcassets */,
 				4DF219F725AC27350098D951 /* Info.plist */,
 				4DF219F425AC27350098D951 /* Preview Content */,
@@ -261,6 +264,7 @@
 			files = (
 				4DF219F125AC27330098D951 /* ContentView.swift in Sources */,
 				4DF219EF25AC27330098D951 /* SUTutorialsApp.swift in Sources */,
+				4DF21A2325AC36AE0098D951 /* CircleImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
