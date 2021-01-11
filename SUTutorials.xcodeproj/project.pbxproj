@@ -18,6 +18,7 @@
 		4DF21A3D25AC42810098D951 /* landmarkData.json in Resources */ = {isa = PBXBuildFile; fileRef = 4DF21A3C25AC42810098D951 /* landmarkData.json */; };
 		4DF21A4225AC42AE0098D951 /* Landmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DF21A4125AC42AE0098D951 /* Landmark.swift */; };
 		4DF21A4A25AC45130098D951 /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DF21A4925AC45130098D951 /* ModelData.swift */; };
+		4DF21A5F25AC48AE0098D951 /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DF21A5E25AC48AE0098D951 /* LandmarkRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		4DF21A3C25AC42810098D951 /* landmarkData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = landmarkData.json; sourceTree = "<group>"; };
 		4DF21A4125AC42AE0098D951 /* Landmark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Landmark.swift; sourceTree = "<group>"; };
 		4DF21A4925AC45130098D951 /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
+		4DF21A5E25AC48AE0098D951 /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -156,6 +158,7 @@
 				4DF219F025AC27330098D951 /* ContentView.swift */,
 				4DF21A2225AC36AE0098D951 /* CircleImage.swift */,
 				4DF21A2D25AC3A950098D951 /* MapView.swift */,
+				4DF21A5E25AC48AE0098D951 /* LandmarkRow.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -304,6 +307,7 @@
 				4DF219EF25AC27330098D951 /* SUTutorialsApp.swift in Sources */,
 				4DF21A2325AC36AE0098D951 /* CircleImage.swift in Sources */,
 				4DF21A4225AC42AE0098D951 /* Landmark.swift in Sources */,
+				4DF21A5F25AC48AE0098D951 /* LandmarkRow.swift in Sources */,
 				4DF21A4A25AC45130098D951 /* ModelData.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
