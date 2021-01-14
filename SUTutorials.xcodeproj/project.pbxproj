@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		4D17347025ADDE5A00E96A6B /* FavoriteButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D17346F25ADDE5A00E96A6B /* FavoriteButton.swift */; };
+		4D50237925B055FF00ED9B25 /* HexagonParameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D50237825B055FF00ED9B25 /* HexagonParameters.swift */; };
 		4DF219EF25AC27330098D951 /* SUTutorialsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DF219EE25AC27330098D951 /* SUTutorialsApp.swift */; };
 		4DF219F125AC27330098D951 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DF219F025AC27330098D951 /* ContentView.swift */; };
 		4DF219F325AC27350098D951 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4DF219F225AC27350098D951 /* Assets.xcassets */; };
@@ -43,6 +44,7 @@
 
 /* Begin PBXFileReference section */
 		4D17346F25ADDE5A00E96A6B /* FavoriteButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteButton.swift; sourceTree = "<group>"; };
+		4D50237825B055FF00ED9B25 /* HexagonParameters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HexagonParameters.swift; sourceTree = "<group>"; };
 		4DF219EB25AC27330098D951 /* SUTutorials.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SUTutorials.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4DF219EE25AC27330098D951 /* SUTutorialsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SUTutorialsApp.swift; sourceTree = "<group>"; };
 		4DF219F025AC27330098D951 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -184,6 +186,7 @@
 				4DF219F025AC27330098D951 /* ContentView.swift */,
 				4D17347425ADDFD000E96A6B /* Landmarks */,
 				4D17347525ADDFE000E96A6B /* Helpers */,
+				4D50237825B055FF00ED9B25 /* HexagonParameters.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -331,6 +334,7 @@
 				4DF21A2E25AC3A950098D951 /* MapView.swift in Sources */,
 				4DF219EF25AC27330098D951 /* SUTutorialsApp.swift in Sources */,
 				4D17347025ADDE5A00E96A6B /* FavoriteButton.swift in Sources */,
+				4D50237925B055FF00ED9B25 /* HexagonParameters.swift in Sources */,
 				4DF21A6A25AC64C30098D951 /* LandmarkList.swift in Sources */,
 				4DF21A7E25AC69290098D951 /* LandmarkDetail.swift in Sources */,
 				4DF21A2325AC36AE0098D951 /* CircleImage.swift in Sources */,
